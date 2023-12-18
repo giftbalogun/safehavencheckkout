@@ -1,0 +1,28 @@
+{
+    "name": "giftbalogun/safehavencheckout",
+    "description": "Paystack WHMCS Gateway",
+    "keywords": [
+        "whmcs",
+        "web host automation platform",
+        "third party gateway module",
+        "gateway module",
+        "third party gateway",
+        "safehavenmfb",
+        "safehaven payment",
+        "safehaven payment gateway",
+        "safehaven gateway"
+    ],
+    "homepage": "https://www.safehavenmfb.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gift Balogun",
+            "email": "blgnbalogun53@gmail.com",
+            "homepage": "https://www.giftbalogun.name.ng/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "hello@safehavenmfb.com"
+    }
+}
